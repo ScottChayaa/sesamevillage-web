@@ -172,7 +172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/tinymce/skins/ui/oxide/skin.shadowdom.min.css"
   },
   {
-    "revision": "a86c4b19406edbc32c3a",
+    "revision": "a0a4aa0bdcc9342da37b",
     "url": "/css/app.e5804510.css"
   },
   {
@@ -568,12 +568,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/upload.f7d81377.png"
   },
   {
-    "revision": "058f0a070a3958f4c30490a3773042d9",
+    "revision": "8703b4bae79003bce1fc3f5c3d2315d3",
     "url": "/index.html"
   },
   {
-    "revision": "a86c4b19406edbc32c3a",
-    "url": "/js/app.a8bae780.js"
+    "revision": "a0a4aa0bdcc9342da37b",
+    "url": "/js/app.b409436d.js"
   },
   {
     "revision": "c77c21b696e36e6bbe0f",
