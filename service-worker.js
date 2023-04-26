@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c930c00ee9791f248e4cc43db87726af.js"
+  "/precache-manifest.9232ceb874c1cd07347a61e5ef4006d7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sesamevillage"});
